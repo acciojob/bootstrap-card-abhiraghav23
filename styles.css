@@ -1,2 +1,22 @@
-
-/* Your CSS Code here. */
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .bg-danger{
+            margin-top: 50px;
+            color: white;
+            height: 150px;
+            width: 300px;
+            border: 1px solid grey;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        .btn{
+            width: 110px;
+        }
+        .pd1{
+            padding-left: 20px;
+        }
+    .card-title{
+        padding-left: 15px;
+    }
